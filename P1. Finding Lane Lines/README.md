@@ -45,10 +45,10 @@ The steps of this project are the following:
 
 ### 2. Identify potential shortcomings with your current pipeline
 
-One potential shortcoming would be what would happen when the road have curves. 
+* One potential shortcoming would be what would happen when the road have curves. 
 
 
 ### 3. Suggest possible improvements to your pipeline
 
-A possible improvement would be to use the 2nd order interpolation to fit all the points we have including the curves on road lane lines.
+* A possible improvement would be to use the 2nd order interpolation to fit all the points we have including the curves on road lane lines.
 
